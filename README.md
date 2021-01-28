@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maykon Morais</h1>
 <h3 align="center">Student of Computer Science at UFERSA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonmorais&label=Profile%20views&color=0e75b6&style=flat" alt="maykonmorais" /> </p>
-
 - 🌱 I’m currently learning **PHP and Laravel**
 
 - 📝 I regularly write articles on [https://medium.com/@maykon.morais](https://medium.com/@maykon.morais)
