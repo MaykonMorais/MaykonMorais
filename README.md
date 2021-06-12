@@ -7,16 +7,10 @@
 <br>
 <br>
 
-<p>
+<p style="font-size: 18px;">
   I'm student of Computer Science, Full Stack Web Developer and enthusiast in UX and UI Design. I currently work with Node.js, PHP, and React.
 Passionate about code quality, a good coffee and learning new things! 🚀
 </p>
-
-- 🌱 I’m currently learning **PHP and Laravel**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@maykon.morais)
-
-- 📄 Know about my experiences on my [Linkedin Profile](https://www.linkedin.com/in/maykon-morais-561610190/)
 
 <br>
 
