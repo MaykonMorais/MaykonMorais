@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://i.imgur.com/7wtlMna.gif" width="40px" />, I'm Maykon Morais</h1>
+<h1 align="center">Hi, I'm Maykon Morais</h1>
 <h3 align="center">A Passionate Developer Improving Everyday :fire:</h3>
 
 
